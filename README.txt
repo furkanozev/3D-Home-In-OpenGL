@@ -8,7 +8,7 @@ RUN:
 	>	./3dhome
 	
 
-Program çalıştıktan sonra rotate için:
+Program çalıştıktan sonra:
 
 a) X düzleminde rotate işlemi için ‘w’ ve ‘s’ tuşları
 b) Y düzleminde rotate işlemi için ‘a’ ve ‘d’ tuşları
